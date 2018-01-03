@@ -1,1 +1,3 @@
 # irl
+
+Event planning app
